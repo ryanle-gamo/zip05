@@ -1,0 +1,110 @@
+{
+    "categories": [{
+                   "category_id": "286",
+                   "category_name": "Emotions",
+                   "category_thumbnail": "286.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Proud",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Cute",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Snob",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Brat",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Evil",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Sneeze",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Sour",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Talking",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Shouting",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Laughing",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Excited",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Twitterpated",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Smile",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Fake Smile",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Wink",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Asleep",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Shut Tight",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Kiss",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Scared",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Terrified",
+                              "anime_step":9
+                              }
+                              ]
+                   }]
+}

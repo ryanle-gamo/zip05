@@ -1,0 +1,125 @@
+{
+    "categories": [{
+                   "category_id": "189",
+                   "category_name": "Smilies",
+                   "category_thumbnail": "189.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Blushing",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Cheeky",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Confused",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Crying",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Depressed",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Devil",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Evil",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Happy",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Laugh",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Pleased",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Puking",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "ROFL",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Sad",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Shocked",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Smile",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Smirking",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Speechles",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Surprised",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "The Drinker",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Tired",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "21",
+                              "anime_name": "Unhappy",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "22",
+                              "anime_name": "Wondering",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "23",
+                              "anime_name": "WOW",
+                              "anime_step":6
+                              }
+                              ]
+                   }]
+}

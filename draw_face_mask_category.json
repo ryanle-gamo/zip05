@@ -1,0 +1,110 @@
+{
+    "categories": [{
+                   "category_id": "88",
+                   "category_name": "Face Masks",
+                   "category_thumbnail": "88.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Venetian Carnival Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Cat Mask",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Rabbit Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Fox Mask",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Iron Mask",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Spiderman Mask",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Theatre Masks",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Scream Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Clone Mask",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Captain America Mask",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Batman Mask",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Dart Vader Mask",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "African Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Chinese Dragon Mask",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Chinese Opera Mask",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Mexican Death Mask",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Flash Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Guy Fawkes Mask",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Ganesha Mask",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Mask of the Pharaon",
+                              "anime_step":12
+                              }
+                              ]
+                   }]
+}
