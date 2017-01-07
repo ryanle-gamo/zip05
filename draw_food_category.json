@@ -1,0 +1,110 @@
+{
+    "categories": [{
+                   "category_id": "207",
+                   "category_name": "Food",
+                   "category_thumbnail": "207.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Yogurt",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Pancakes",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Burger",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Chicken",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Cocktail",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Coffee",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Croissant",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Donut",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Fri",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Hot-Dog",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Ice cream",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Meat",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Muesli",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Pizza",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Popcorn",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Rise",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Sandwitch",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Sushi",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Taco",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Waffle",
+                              "anime_step":10
+                              }
+                              ]
+                   }]
+}

@@ -1,0 +1,85 @@
+{
+    "categories": [{
+                   "category_id": "269",
+                   "category_name": "Coctails",
+                   "category_thumbnail": "269.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Long Island",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Dry Martini",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Sex on the Beach",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Pina Colada",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Margarita",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "B-52",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Beer",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Hurricane",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Red Wine",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Tequila Sunrise",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Cognac",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Whiskey",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Irish Coffee",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Tequila",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Mojito",
+                              "anime_step":12
+                              }
+                              ]
+                   }]
+}
