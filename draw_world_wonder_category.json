@@ -1,0 +1,85 @@
+{
+    "categories": [{
+                   "category_id": "87",
+                   "category_name": "World Wonders",
+                   "category_thumbnail": "87.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Eiffel Tower",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Colosseum",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Big Ben",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Pisa Tower",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Statue of Liberty",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "St.Basil's Cathedral",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Tower Bridge",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Space Needle",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Sphinx",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Taj Mahal",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Sagrada Familia",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Christ the Radeemer Statue",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Sydney Opera",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Burj al Arab",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Arc de Triomphe",
+                              "anime_step":10
+                              }
+                              ]
+                   }]
+}

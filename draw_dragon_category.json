@@ -1,0 +1,90 @@
+{
+    "categories": [{
+                   "category_id": "58",
+                   "category_name": "Dragons and Beasts",
+                   "category_thumbnail": "58.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Dragonite",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Salamence",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Dragon Age Dragon",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Dragon Ball Z Dragon",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Whispering Death Dragon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Skrill Dragon",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Long Wang Chinese Dragon",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Spyro Dragon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Sephira Dragon",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Mushu Dragon",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Fire Dragon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Water Dragon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Earth Dragon",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Air Dragon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Electric Dragon",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Zombie Dragon",
+                              "anime_step":10
+                              }
+                              ]
+                   }]
+}

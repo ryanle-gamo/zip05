@@ -1,0 +1,130 @@
+{
+    "categories": [{
+                   "category_id": "68",
+                   "category_name": "Monsters and Beasts",
+                   "category_thumbnail": "68.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Basilisk",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Chimera",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Centaur",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Cyclop",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Dwarf",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Elf",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Giant",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Iron Golem",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Goblin",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Griffin",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Harpy",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Hydra",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Imp",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Kraken",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Lycan",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Mermaid",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Minotaur",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Orc",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Phoenix",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Pegasus",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "21",
+                              "anime_name": "Salamander",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "22",
+                              "anime_name": "Unicorn",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "23",
+                              "anime_name": "Vampire",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "24",
+                              "anime_name": "Yeti",
+                              "anime_step":7
+                              }
+                              ]
+                   }]
+}
