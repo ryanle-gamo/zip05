@@ -1,0 +1,90 @@
+{
+    "categories": [{
+                   "category_id": "66",
+                   "category_name": "Vampires and Werewolfs",
+                   "category_thumbnail": "66.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Green Vampire",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Vampire Face",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Vampire's Skull",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Werewolf Claw",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Werewolf Face",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "William Uderworld: Evolution",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Lestat Interview With The Vampire",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Draculaura Monster High",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Warwick LOL",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Halloween Vampire Teeth",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Vampire Bat",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Werewolf Easy",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Angry Werewolf",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Werewolf Head",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Vampire cake",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Werewolf and Moon",
+                              "anime_step":10
+                              }
+                              ]
+                   }]
+}
